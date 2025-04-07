@@ -30,3 +30,94 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio
+
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.json
+*.psmdcp
+
+# Visual Studio profiler
+*.vsp
+*.vspx
+*.sap
+
+# TFS
+$tf/
+
+# JetBrains Rider
+.idea/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Local history for Rider or VS
+.localhistory/
+
+# Visual Studio database projects
+*.dbmdl
+
+# Backup & crash files
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Visual Studio Code
+.history/
+
+# CMake cache
+CMakeCache.txt
+CMakeFiles/
+
+# Build folders (you can customize this if needed)
+build/
+x64/
+x86/
+Release/
+Debug/
+
