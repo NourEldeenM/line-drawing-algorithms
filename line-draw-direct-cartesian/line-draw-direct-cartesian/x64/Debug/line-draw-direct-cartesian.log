@@ -1,0 +1,4 @@
+﻿  line-draw-direct-cartesian.cpp
+C:\Users\dell\Desktop\edu\CS\computer_graphics\line-drawing-algorithms\line-draw-direct-cartesian\line-draw-direct-cartesian\line-draw-direct-cartesian.cpp(28,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dell\Desktop\edu\CS\computer_graphics\line-drawing-algorithms\line-draw-direct-cartesian\line-draw-direct-cartesian\line-draw-direct-cartesian.cpp(48,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  line-draw-direct-cartesian.vcxproj -> C:\Users\dell\Desktop\edu\CS\computer_graphics\line-drawing-algorithms\line-draw-direct-cartesian\x64\Debug\line-draw-direct-cartesian.exe
